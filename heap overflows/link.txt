@@ -1,0 +1,3 @@
+Below, the link of all the interesting papers found about heap overflows:
+
+https://docs.google.com/document/d/17v-eX0T3temOcQxElH-A7EkA3IGilnqEHmIIbqWNC9w/pub
